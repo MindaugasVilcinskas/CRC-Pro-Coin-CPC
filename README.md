@@ -1,2 +1,2 @@
-# CRC-Pro-Coin-CPC
+# CRC-Pro-Coin-CRC
 Crypto - Hyperledger 
