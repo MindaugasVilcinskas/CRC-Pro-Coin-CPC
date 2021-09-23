@@ -1,2 +1,2 @@
-# CRC-Pro-Coin-CRC
-Crypto - Hyperledger 
+# CRC Pro Society Coin
+Crypto - ERC20 
