@@ -1,2 +1,2 @@
-# CRC Pro Society Coin
-Crypto - ERC20 
+# CRC Pro  Coin
+
